@@ -1,0 +1,38 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  width: 100vw;
+  height: 100vh;
+  background-color: blueviolet;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+ .box1 {
+  height: 200px;
+  width: 200px;
+  background-color: azure;
+  border: 1px solid black;
+  margin: 20px;
+  cursor: pointer;
+}
+
+.imgbox {
+  height: 200px;
+  width: 200px;
+  border: 1px solid black;
+  background-image: url("pic.jpg");
+  background-size: cover;
+  background-size: 150px;
+  background-repeat: no-repeat;
+} 
+.hold {
+  border: 4px solid red;
+}
+.hide {
+  display: none;
+}  
