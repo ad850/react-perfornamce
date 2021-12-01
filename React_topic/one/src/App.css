@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.input {
+  background-color: orange;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.center{
+
+  width: 400px;
+  height: 400px;
+  border-radius: 20px;
+  background-color: aliceblue;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 30px;
+}
+
+.list{
+
+  padding-top: 50px;
+}

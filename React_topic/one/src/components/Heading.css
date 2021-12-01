@@ -1,0 +1,10 @@
+.main {
+  height: 40px;
+  width: 100vw;
+  background-color: black;
+  color: red;
+  text-transform: capitalize;
+  font-size: larger;
+  padding: 20px;
+  text-align: center;
+}
